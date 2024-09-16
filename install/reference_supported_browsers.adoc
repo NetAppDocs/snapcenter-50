@@ -15,7 +15,7 @@ SnapCenter Software can be used on multiple browsers.
 +
 If you are using v66, you might fail to launch SnapCenter GUI.
 
-* Microsoft Edge
+* Microsoft Edge 110.0.1587.17 and later
 
 For the latest information about supported versions, see https://imt.netapp.com/matrix/imt.jsp?components=116859;&solution=1257&isHWU&src=IMT[NetApp Interoperability Matrix Tool^].
 
