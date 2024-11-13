@@ -48,7 +48,7 @@ a|
 Select this to avoid forcing a WAFL consistency point.
 |===
 +
-image:../media/application_settings.gif[Application settings page]
+image:../media/application_settings.gif[A screenshot of the options for consistency group backup: urgent, medium, or relaxed.]
 
 .. Click the *Scripts* arrow to run pre and post commands for quiesce, Snapshot, and unquiesce operations. You can also run pre commands before exiting the backup operation.
 +

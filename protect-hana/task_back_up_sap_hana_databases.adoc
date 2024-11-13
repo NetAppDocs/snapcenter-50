@@ -85,7 +85,7 @@ To enter the command to create a Snapshot
 a|
 Select *Other*, and then enter the command to create a Snapshot.
 |===
-image:../media/application_settings.gif[]
+image:../media/application_settings.gif[A screenshot of the options for consistency group backup: urgent, medium, or relaxed.]
 . In the Policies page, perform the following steps:
  .. Select one or more policies from the drop-down list.
 +

@@ -20,7 +20,8 @@ You must add the resources that you want to back up or clone. Depending on your 
 
 .About this task
 
-You can also add resources for MySQL and DB2 applications. These plug-ins can be downloaded from the https://automationstore.netapp.com/home.shtml[NetApp Storage Automation Store].
+You can also add resources for MySQL and DB2 applications. 
+//These plug-ins can be downloaded from the https://automationstore.netapp.com/home.shtml[NetApp Storage Automation Store].
 
 .Steps
 
