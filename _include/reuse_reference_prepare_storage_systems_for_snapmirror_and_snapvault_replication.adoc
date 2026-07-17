@@ -10,5 +10,6 @@ NOTE: SnapCenter does not support cascade relationships between SnapMirror and S
 
 SnapCenter supports the management of version-flexible SnapMirror relationships. For details about version-flexible SnapMirror relationships and how to set them up, see the http://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.ic-base%2Fresources%2Fhome.html[ONTAP documentation^].
 
-NOTE: SnapCenter does not support *sync_mirror* replication.
+
 // Included the above statememtn for BURT 1411373 in 4.6
+// SNAPCDOC-250, 2026-JUL-17, removed reference to sync_mirror replication
